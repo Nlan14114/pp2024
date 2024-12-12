@@ -9,7 +9,7 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Doan Ngoc Linh .
-* Student ID: 22BA13190
+* Student Name: Nguyen Thi NGoc Lan .
+* Student ID: 22BA13186
 
 
